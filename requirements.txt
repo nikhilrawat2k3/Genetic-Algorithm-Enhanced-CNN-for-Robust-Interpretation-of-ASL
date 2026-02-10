@@ -1,0 +1,19 @@
+# Computer Vision & Media Processing
+opencv-python
+mediapipe
+
+# Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+
+# Data Manipulation & Optimization
+numpy
+pandas
+deap
+
+# Audio & Speech
+pyttsx3
+
+# Visualization
+matplotlib
+seaborn
